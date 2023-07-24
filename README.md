@@ -18,7 +18,7 @@ import { '', '' } from 'clx'
 
 
 And your good to go! Otherwise, if your stil stuck, here is some example usage to help you grasp it.
-'''javascript
+```javascript
 // Import bubbleSort method
 import bubbleSort from 'clx'
 
